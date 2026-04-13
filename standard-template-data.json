@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-04-13T02:16:31.478Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-04-13T02:19:05.570Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -923,14 +923,14 @@
                     "id": "019dc0a1-c07b-459a-81d4-72649aa7fc57",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-288lb7kzyh5.jpg",
                     "sortOrder": 0,
-                    "description": "전 객실에서 탁 트인 오션뷰를 누릴 수 있는 공간\n머무는 곳마다 여수 바다의 아름다움이 함께합니다\n객실 안에서도 바다를 가까이 느끼는 특별한 휴식",
+                    "description": "전 객실에서 탁 트인 오션뷰를 누릴 수 있는 공간\n머무는 곳마다 여수 바다의 아름다움이 함께합니다.\n객실 안에서도 바다를 가까이 느끼는 특별한 휴식",
                     "isSelected": true
                   },
                   {
                     "id": "54382c9f-090c-4184-8993-ed2ede1e91dd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-rtnp5e40mo.jpg",
                     "sortOrder": 1,
-                    "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다",
+                    "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다.",
                     "isSelected": true
                   },
                   {
