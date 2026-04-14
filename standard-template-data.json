@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-04-14T09:14:59.704Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-04-14T09:17:55.457Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -359,7 +359,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "101호(오션뷰, 테라스, 애견동반)",
       "nameEn": "101 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -422,9 +422,9 @@
       ],
       "displayOrder": 0,
       "createdAt": "2026-04-03T08:40:28.273Z",
-      "updatedAt": "2026-04-10T06:30:39.034Z",
+      "updatedAt": "2026-04-14T09:15:43.109Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "0213d7a5-ff25-444c-beab-ed4b2f857282",
@@ -432,7 +432,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "102호(침대3개, 오션뷰,테라스,애견동반)",
       "nameEn": "102 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -496,9 +496,9 @@
       ],
       "displayOrder": 1,
       "createdAt": "2026-04-03T08:40:28.330Z",
-      "updatedAt": "2026-04-10T06:31:15.939Z",
+      "updatedAt": "2026-04-14T09:15:52.771Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "bd8ec4e9-d40e-42d6-a17b-9e840f7f0940",
@@ -506,7 +506,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "103호(침대3개, 오션뷰,테라스,애견동반)",
       "nameEn": "103 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -570,9 +570,9 @@
       ],
       "displayOrder": 2,
       "createdAt": "2026-04-03T08:40:28.327Z",
-      "updatedAt": "2026-04-10T06:31:42.483Z",
+      "updatedAt": "2026-04-14T09:16:02.031Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "933df6ce-55cc-4dd7-b89f-1f97796d5cad",
@@ -580,7 +580,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "104호(침대3개, 오션뷰,테라스,애견동반)",
       "nameEn": "104 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -644,9 +644,9 @@
       ],
       "displayOrder": 3,
       "createdAt": "2026-04-03T08:40:28.216Z",
-      "updatedAt": "2026-04-10T06:32:09.659Z",
+      "updatedAt": "2026-04-14T09:16:11.815Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "14e9d061-0780-43c4-93d6-6078d8ceb739",
@@ -654,7 +654,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "201호(오션뷰, 테라스, 애견동반)",
       "nameEn": "201 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -717,9 +717,9 @@
       ],
       "displayOrder": 4,
       "createdAt": "2026-04-03T08:40:28.067Z",
-      "updatedAt": "2026-04-10T06:32:34.030Z",
+      "updatedAt": "2026-04-14T09:16:23.177Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "3c8ac8a6-b297-49d4-a4c4-443acce84c34",
@@ -727,7 +727,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "203호(스파, 오션뷰, 테라스,애견동반)",
       "nameEn": "203 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -791,9 +791,9 @@
       ],
       "displayOrder": 5,
       "createdAt": "2026-04-03T08:40:28.267Z",
-      "updatedAt": "2026-04-10T06:33:02.247Z",
+      "updatedAt": "2026-04-14T09:16:32.617Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "775cfc27-a228-4fec-a8f1-2074022ab361",
@@ -801,7 +801,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "204호(오션뷰, 테라스, 애견동반)",
       "nameEn": "204 (Ocean View, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -864,9 +864,9 @@
       ],
       "displayOrder": 6,
       "createdAt": "2026-04-03T08:40:28.286Z",
-      "updatedAt": "2026-04-10T06:33:55.546Z",
+      "updatedAt": "2026-04-14T09:16:43.484Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "72f6af54-9f33-4769-b958-c2e969a66cd4",
@@ -874,7 +874,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "301호(스파,오션뷰,테라스,애견동반)",
       "nameEn": "301 (Spa, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -938,9 +938,9 @@
       ],
       "displayOrder": 7,
       "createdAt": "2026-04-03T08:40:28.259Z",
-      "updatedAt": "2026-04-10T06:34:27.429Z",
+      "updatedAt": "2026-04-14T09:17:05.273Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "61982282-8b91-4380-999c-2c3bc99d1a77",
@@ -948,7 +948,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "302호(스파,오션뷰,테라스,애견동반)",
       "nameEn": "302 (Spa, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -1012,9 +1012,9 @@
       ],
       "displayOrder": 8,
       "createdAt": "2026-04-03T08:40:28.276Z",
-      "updatedAt": "2026-04-10T06:35:05.020Z",
+      "updatedAt": "2026-04-14T09:17:13.319Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "cedf23c0-2b81-4aee-b061-09db8d9b5378",
@@ -1022,7 +1022,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "303호(스파,오션뷰,테라스,애견동반)",
       "nameEn": "303 (Spa, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -1086,9 +1086,9 @@
       ],
       "displayOrder": 9,
       "createdAt": "2026-04-03T08:40:28.184Z",
-      "updatedAt": "2026-04-10T07:45:41.612Z",
+      "updatedAt": "2026-04-14T09:17:24.527Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     },
     {
       "id": "d9bbcee7-40d6-4784-b2cd-f8e458c587fd",
@@ -1096,7 +1096,7 @@
       "propertyName": "여수 복자 스파펜션",
       "name": "304호(스파,오션뷰,테라스,애견동반)",
       "nameEn": "304 (Spa, Pet-Friendly)",
-      "description": "",
+      "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 침구 1세트당 10,000원",
       "group": null,
@@ -1160,9 +1160,9 @@
       ],
       "displayOrder": 10,
       "createdAt": "2026-04-03T08:40:28.324Z",
-      "updatedAt": "2026-04-10T07:46:03.729Z",
+      "updatedAt": "2026-04-14T09:17:35.762Z",
       "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "updatedBy": "b44df484-2787-43ca-add4-16bba0d8bc83"
     }
   ],
   "homepage": {
