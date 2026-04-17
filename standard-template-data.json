@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-04-17T06:10:59.335Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-04-17T07:19:04.333Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -26,7 +26,7 @@
     "city": "여수시",
     "domain": "bokjaps.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11644",
-    "ybsId": "",
+    "ybsId": "79972",
     "amenities": [],
     "nearbyAttractions": [
       "해변",
