@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-04-23T05:48:40.101Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-04-27T08:03:19.489Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -1233,29 +1233,29 @@
                     "isSelected": true
                   },
                   {
+                    "id": "eaa984d0-f683-42e1-9960-325931b3598e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1777276895777-a7t085wxpi9.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "4a35c018-a901-4e25-ba06-ecfeda3a1b85",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-ossve6dkra.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "3b7678a5-501b-4f16-b4be-83faf7dfbf4e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-o0dj6kpy15.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "6a496038-2969-4d2b-8dab-3df9db455c1d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-oztc7vsyubp.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "34fb258e-32ed-46e9-b105-10f1330af711",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-sgfae6wfed.jpg",
                     "sortOrder": 4,
                     "description": "",
                     "isSelected": true
@@ -1319,24 +1319,24 @@
                 "title": "",
                 "images": [
                   {
+                    "id": "1e7cd65f-9b5d-4d8f-8b57-fa706db48df1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-5fm248dfxc3.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "019dc0a1-c07b-459a-81d4-72649aa7fc57",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-288lb7kzyh5.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "전 객실에서 탁 트인 오션뷰를 누릴 수 있는 공간\n머무는 곳마다 여수 바다의 아름다움이 함께합니다.\n객실 안에서도 바다를 가까이 느끼는 특별한 휴식",
                     "isSelected": true
                   },
                   {
                     "id": "54382c9f-090c-4184-8993-ed2ede1e91dd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-rtnp5e40mo.jpg",
-                    "sortOrder": 1,
-                    "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다.",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "1e7cd65f-9b5d-4d8f-8b57-fa706db48df1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-5fm248dfxc3.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다.",
                     "isSelected": true
                   },
                   {
@@ -1945,8 +1945,8 @@
               "category": "roomtype_thumbnail"
             },
             {
-              "id": "7baa5af9-35f6-4f50-8ac4-7dfb4c72fd6d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_interior/1776068846027-v4fwjtg5yr.jpg",
+              "id": "c29bf614-5598-4648-b8ab-50abf7926a8b",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_interior/1776068846027-u6ypty48fp.jpg",
               "sortOrder": 20,
               "description": "",
               "isSelected": true,
@@ -1954,8 +1954,8 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "c29bf614-5598-4648-b8ab-50abf7926a8b",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_interior/1776068846027-u6ypty48fp.jpg",
+              "id": "7baa5af9-35f6-4f50-8ac4-7dfb4c72fd6d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_interior/1776068846027-v4fwjtg5yr.jpg",
               "sortOrder": 21,
               "description": "",
               "isSelected": true,
@@ -2801,7 +2801,7 @@
             {
               "id": "c7704521-f5b9-4c84-8b92-efcb77cefc1e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_thumbnail/1776406244952-aa1cvrcrjj.jpg",
-              "sortOrder": 10,
+              "sortOrder": 9,
               "description": "",
               "isSelected": true,
               "blockId": "cedf23c0-2b81-4aee-b061-09db8d9b5378",
@@ -2932,7 +2932,7 @@
             {
               "id": "2bcc278c-4b6b-4f78-bebe-b47c91cbd3ec",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_thumbnail/1776069251068-oizvfybytsf.jpg",
-              "sortOrder": 9,
+              "sortOrder": 10,
               "description": "",
               "isSelected": true,
               "blockId": "d9bbcee7-40d6-4784-b2cd-f8e458c587fd",
