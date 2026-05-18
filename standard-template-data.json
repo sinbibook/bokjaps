@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-04-27T08:04:05.508Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-05-18T05:40:11.198906068Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -25,15 +25,15 @@
     "province": "전라남도",
     "city": "여수시",
     "domain": "bokjaps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11644",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1215898877",
     "ybsId": "79972",
-    "amenities": [],
+    "amenities": [ ],
     "nearbyAttractions": [
       "해변",
       "맛집",
       "수상스포츠"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "오션뷰",
       "반려동물동반"
@@ -50,7 +50,8 @@
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -76,39 +77,44 @@
         "displayOrder": 140,
         "images": [
           {
-            "id": "99ea2cfd-7946-4cff-a499-5e16c506fffb",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad769aef-1d60-4470-8fb5-df40303ec1b0/main/1776044939384-6e2mdywv7dv.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "1ec56bc5-903d-42b4-9c1d-eae1e4cbbf30",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad769aef-1d60-4470-8fb5-df40303ec1b0/main/1776044939384-mdknr8wdf2q.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "07c0268c-e607-4367-baf4-c5d17a7d6e43",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad769aef-1d60-4470-8fb5-df40303ec1b0/main/1776044939384-uml23jvrhns.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "99ea2cfd-7946-4cff-a499-5e16c506fffb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad769aef-1d60-4470-8fb5-df40303ec1b0/main/1776044939384-6e2mdywv7dv.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "69b97d94-c9bb-4347-95e1-a16744fd3bce",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad769aef-1d60-4470-8fb5-df40303ec1b0/main/1776044939384-hzopg7k9ia5.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "60269309-edab-42cb-8575-3c48124c4560",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ad769aef-1d60-4470-8fb5-df40303ec1b0/main/1776044939384-vmi9xf4gq3i.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -120,25 +126,28 @@
         "displayOrder": 141,
         "images": [
           {
+            "id": "f8d3debb-f6b1-48f4-a613-c457ec27ac5c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989765-i25fvptj5w.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "caffa771-54a8-4abd-8724-ed608bc1c9b7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989766-fo70ie6cuk7.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "d32f65c9-adac-432e-aa75-dff284d80e02",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989766-2auoi8xxkaa.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "f8d3debb-f6b1-48f4-a613-c457ec27ac5c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989765-i25fvptj5w.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -150,60 +159,68 @@
         "displayOrder": 142,
         "images": [
           {
+            "id": "2f234c9f-5a23-4393-bb61-7999d9e62077",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776324090232-z88pbonpxfk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "1bcde2d2-07eb-43ed-bfa5-8837f86eb55b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776045096251-2258ifpi9by.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "8dc88344-70dc-423a-af38-46c24698a8f5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776045096251-vjfr2wm8w98.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "62399ab6-2c7f-4837-9124-f543b8506b48",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776045096251-fpbkuilxz0p.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2f234c9f-5a23-4393-bb61-7999d9e62077",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776324090232-z88pbonpxfk.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "81f77c3b-73d2-4d12-b712-8301079cbe11",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776324090233-ob5w9zgy6wl.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "62399ab6-2c7f-4837-9124-f543b8506b48",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776045096251-fpbkuilxz0p.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "5877af90-f730-4add-8497-37285a4f2200",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776324090233-38abmoo1bb.jpg",
             "sortOrder": 5,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "9d71e239-5200-4256-be95-739f17a43906",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776324090233-11islf2jk8o.jpg",
             "sortOrder": 6,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "425d46be-c3c2-458d-ba58-03a38fd5339d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fd068ee-a14e-4b8f-8b45-9f7e7dbac08a/main/1776324090233-ipmrl0dawyk.jpg",
             "sortOrder": 7,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -215,32 +232,36 @@
         "displayOrder": 143,
         "images": [
           {
-            "id": "3b18b8a6-c5b6-45df-984e-4da60c645d82",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/accdbae7-68a8-4521-bf69-17166c7489b6/main/1776391265159-otax0laenm.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "c6893899-b6af-4de9-8445-44469f310c8d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/accdbae7-68a8-4521-bf69-17166c7489b6/main/1776391265159-bpl0vwgj35.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "bacffda3-c3b1-44b5-8f1b-66c163862f04",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/accdbae7-68a8-4521-bf69-17166c7489b6/main/1776391265160-t34a5cj2nml.jpg",
-            "sortOrder": 3,
+            "id": "3b18b8a6-c5b6-45df-984e-4da60c645d82",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/accdbae7-68a8-4521-bf69-17166c7489b6/main/1776391265159-otax0laenm.jpg",
+            "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "7be55bdf-ea4c-4dfe-bc36-879d089bf3fc",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/accdbae7-68a8-4521-bf69-17166c7489b6/main/1776391265160-rzpg7zyukpr.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "bacffda3-c3b1-44b5-8f1b-66c163862f04",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/accdbae7-68a8-4521-bf69-17166c7489b6/main/1776391265160-t34a5cj2nml.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -300,99 +321,106 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/thumbnail/1776146655481-sgrr229drzn.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
           {
-            "id": "33eaf55e-68ec-4f1b-903d-df481f1d6acb",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-mnvr0qcwurs.jpg",
-            "sortOrder": 9,
+            "id": "9c7a2d81-b381-4a5e-be98-73dd6545952f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-w7jw7hkizkp.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2606cb2b-d7df-442c-a732-2775b991522d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-8fzxafpmf7i.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0a353632-b21b-4c5d-9104-a90acbc66ab4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-5qzrdcvv0a.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "810f4c0d-59ac-4ed7-825e-d6414975f9b4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-1d83dt9brgg.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "ed110e5c-7df1-4333-b19b-660e3dd40564",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-cui02etzmcl.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "1e5e4230-79f4-4072-af31-bd6f3e95f913",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-frgy0dgnxmj.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "9c7a2d81-b381-4a5e-be98-73dd6545952f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-w7jw7hkizkp.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "545c1426-3c86-45e4-9b74-ba4ab17c06d0",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-o4hfmyewt5.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "8125e0f8-620e-46fc-9ec2-87afe5914da8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-pumyt0msvc.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0a353632-b21b-4c5d-9104-a90acbc66ab4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-5qzrdcvv0a.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2606cb2b-d7df-442c-a732-2775b991522d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-8fzxafpmf7i.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "545c1426-3c86-45e4-9b74-ba4ab17c06d0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-o4hfmyewt5.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "cb326c51-ceca-4a31-9344-36714b29dea9",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-wflc6wn0cl9.jpg",
             "sortOrder": 7,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ed110e5c-7df1-4333-b19b-660e3dd40564",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-cui02etzmcl.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "33eaf55e-68ec-4f1b-903d-df481f1d6acb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/e65d0d92-2a7d-42bc-bf3f-910bc150ee81/exterior/1776146655481-mnvr0qcwurs.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ]
   },
   "rooms": [
     {
       "id": "e1c3e853-8050-4102-9bbc-f5439d7b08a0",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "101호(오션뷰, 테라스)",
-      "nameEn": "101 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -402,20 +430,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -440,32 +458,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 0,
-      "createdAt": "2026-04-03T08:40:28.273Z",
-      "updatedAt": "2026-04-16T08:16:26.103Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 0
     },
     {
       "id": "0213d7a5-ff25-444c-beab-ed4b2f857282",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "102호(침대3개, 오션뷰,테라스)",
-      "nameEn": "102 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n* 1인 1침구 세트로 제공하여 편안하게 이용 가능",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n* 1인 1침구 세트로 제공하여 편안하게 이용 가능",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 8,
       "totalRoomCount": {
@@ -475,20 +495,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -514,32 +524,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-03T08:40:28.330Z",
-      "updatedAt": "2026-04-16T08:22:56.481Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 1
     },
     {
       "id": "bd8ec4e9-d40e-42d6-a17b-9e840f7f0940",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "103호(침대3개, 오션뷰,테라스)",
-      "nameEn": "103 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n* 1인 1침구 세트로 제공하여 편안하게 이용 가능",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n* 1인 1침구 세트로 제공하여 편안하게 이용 가능",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -549,20 +561,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -588,32 +590,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-04-03T08:40:28.327Z",
-      "updatedAt": "2026-04-16T08:21:55.127Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 2
     },
     {
       "id": "933df6ce-55cc-4dd7-b89f-1f97796d5cad",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "104호(침대3개, 오션뷰,테라스)",
-      "nameEn": "104 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n* 1인 1침구 세트로 제공하여 편안하게 이용 가능",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대2)+침대룸(퀸침대1)+주방1+화장실2+개별바비큐\n* 1인 1침구 세트로 제공하여 편안하게 이용 가능",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -623,20 +627,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -662,32 +656,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-03T08:40:28.216Z",
-      "updatedAt": "2026-04-16T08:22:01.606Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 3
     },
     {
       "id": "14e9d061-0780-43c4-93d6-6078d8ceb739",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "201호(오션뷰, 테라스)",
-      "nameEn": "201 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -697,20 +693,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -735,32 +721,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-03T08:40:28.067Z",
-      "updatedAt": "2026-04-16T08:17:54.497Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 4
     },
     {
       "id": "3c8ac8a6-b297-49d4-a4c4-443acce84c34",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "203호(스파, 오션뷰, 테라스)",
-      "nameEn": "203 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 52.89,
-      "sizePyeong": 16,
       "baseOccupancy": 2,
       "maxOccupancy": 5,
       "totalRoomCount": {
@@ -770,20 +758,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -809,32 +787,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-03T08:40:28.267Z",
-      "updatedAt": "2026-04-16T08:18:24.368Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 5
     },
     {
       "id": "775cfc27-a228-4fec-a8f1-2074022ab361",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "204호(오션뷰, 테라스)",
-      "nameEn": "204 (Ocean View, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -844,20 +824,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -882,32 +852,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-03T08:40:28.286Z",
-      "updatedAt": "2026-04-16T08:18:48.257Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 6
     },
     {
       "id": "72f6af54-9f33-4769-b958-c2e969a66cd4",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "301호(스파,오션뷰,테라스)",
-      "nameEn": "301 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -917,20 +889,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -956,32 +918,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-03T08:40:28.259Z",
-      "updatedAt": "2026-04-16T08:19:07.212Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 7
     },
     {
       "id": "61982282-8b91-4380-999c-2c3bc99d1a77",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "302호(스파,오션뷰,테라스)",
-      "nameEn": "302 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+온돌룸(침구세트1)+주방1+화장실1+개별바비큐\n",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+온돌룸(침구세트1)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 42.98,
-      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -991,21 +955,11 @@
         "ondol": 1,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드",
         "온돌"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1031,32 +985,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-03T08:40:28.276Z",
-      "updatedAt": "2026-04-16T08:22:43.099Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 8
     },
     {
       "id": "cedf23c0-2b81-4aee-b061-09db8d9b5378",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "303호(스파,오션뷰,테라스)",
-      "nameEn": "303 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 42.98,
-      "sizePyeong": 13,
       "baseOccupancy": 2,
       "maxOccupancy": 3,
       "totalRoomCount": {
@@ -1066,20 +1022,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1105,32 +1051,34 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-04-03T08:40:28.184Z",
-      "updatedAt": "2026-04-16T08:20:44.407Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 9
     },
     {
       "id": "d9bbcee7-40d6-4784-b2cd-f8e458c587fd",
-      "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
-      "propertyName": "여수 복자 스파펜션",
       "name": "304호(스파,오션뷰,테라스)",
-      "nameEn": "304 (Spa, Pet-Friendly)",
       "description": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "roomInfo": "복층형, 거실1+침대룸(퀸침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 0세~7세 미만 10,000원\n- 7세이상~성인 20,000원\n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n※ 추가인원 외 이불 추가 요청 시 침구 1세트당 10,000원",
       "group": null,
       "size": 49.59,
-      "sizePyeong": 15,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1140,20 +1088,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "Y",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "테라스",
@@ -1179,19 +1117,25 @@
         "복층"
       ],
       "status": "active",
-      "bankAccountId": "3ef08a04-e5fb-4b9f-a98b-218608c7f34e",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "Y",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-04-03T08:40:28.324Z",
-      "updatedAt": "2026-04-16T08:21:05.748Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 10
     }
   ],
   "homepage": {
@@ -1206,7 +1150,8 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/logo/1776044787785-xk5hw1few5g.png",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -1216,7 +1161,12 @@
       "description": "여수 복자 스파펜션",
       "keywords": "여수복자스파펜션,여수펜션,여수숙소,여수오션뷰풀빌라,여수풀빌라,오션뷰펜션"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -1230,73 +1180,83 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806521-e87tcnm815n.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "eaa984d0-f683-42e1-9960-325931b3598e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1777276895777-a7t085wxpi9.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "4a35c018-a901-4e25-ba06-ecfeda3a1b85",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-ossve6dkra.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "3b7678a5-501b-4f16-b4be-83faf7dfbf4e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-o0dj6kpy15.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "6a496038-2969-4d2b-8dab-3df9db455c1d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-oztc7vsyubp.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "dfe0c51c-f039-4e7f-82f4-28bdec70a722",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-4o8tssjbrid.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "2675f086-42ae-4819-9a73-63a216087671",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-nkh0hvn3eab.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "c2e46d20-fda0-45ff-a044-376fd56e4d28",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-rmzy9p94xwl.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "d79cf6ff-fd6b-4ef3-8ec9-d2f7396e9b10",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-08k3zjqt3b1.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "63981156-a83b-42fe-99fb-c494ce948db4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_hero/1776069806522-tzi6k07g02.jpg",
                     "sortOrder": 9,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "여수 복자 스파펜션"
               },
@@ -1308,10 +1268,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_closing/1776043785039-xhsgotx7l7.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -1323,44 +1284,48 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-5fm248dfxc3.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "019dc0a1-c07b-459a-81d4-72649aa7fc57",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-288lb7kzyh5.jpg",
                     "sortOrder": 1,
                     "description": "전 객실에서 탁 트인 오션뷰를 누릴 수 있는 공간\n머무는 곳마다 여수 바다의 아름다움이 함께합니다.\n객실 안에서도 바다를 가까이 느끼는 특별한 휴식",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "54382c9f-090c-4184-8993-ed2ede1e91dd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-rtnp5e40mo.jpg",
                     "sortOrder": 2,
                     "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다.",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8cfe150a-0339-4b60-917c-1476cf4a21bd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776069806522-hork3z7e72d.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "Where ocean light meets restful days in a private villa."
               },
               "gallery": {
                 "title": "",
-                "images": [],
-                "videos": [],
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image"
               },
               "signature": {
                 "title": "",
-                "images": [],
-                "videos": [],
+                "images": [ ],
+                "videos": [ ],
                 "mediaType": "image"
               }
             }
@@ -1377,7 +1342,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/directions_hero/1776044621907-k3nl8qje7g.jpg",
                     "sortOrder": 0,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1399,7 +1365,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_hero/1776044580638-77ultj7euok.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": " "
@@ -1503,8 +1470,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1516,7 +1483,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/reservation_hero/1776044673228-tzl4gpqd1he.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1528,7 +1496,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/reservation_about/1776044673228-i9p07p9wud.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": " "
@@ -1538,7 +1507,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "theme": {
         "font": {
@@ -1575,6 +1544,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1583,6 +1553,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1591,6 +1562,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1599,6 +1571,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1607,6 +1580,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1615,6 +1589,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1623,6 +1598,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1631,6 +1607,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1639,6 +1616,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1647,6 +1625,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1655,6 +1634,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
