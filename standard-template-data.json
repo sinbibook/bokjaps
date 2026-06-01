@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-05-18T05:40:11.198906068Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-06-01T03:14:53.994765874Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -126,9 +126,25 @@
         "displayOrder": 141,
         "images": [
           {
+            "id": "5dd52a08-3a3a-4cc9-aeb5-0b5f0778bf4d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1779249865333-9gdzy9npvq.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "f8d3debb-f6b1-48f4-a613-c457ec27ac5c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989765-i25fvptj5w.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "351b1c4d-4262-476e-a115-27718f786dba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1779249865331-n0qbpeeqo4.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -136,7 +152,7 @@
           {
             "id": "caffa771-54a8-4abd-8724-ed608bc1c9b7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989766-fo70ie6cuk7.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -144,7 +160,7 @@
           {
             "id": "d32f65c9-adac-432e-aa75-dff284d80e02",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8a8c9ca5-3a04-4988-8a4c-6d0f72c0fbab/main/1776044989766-2auoi8xxkaa.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1283,7 +1299,7 @@
                     "id": "1e7cd65f-9b5d-4d8f-8b57-fa706db48df1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-5fm248dfxc3.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다.",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1299,7 +1315,7 @@
                     "id": "54382c9f-090c-4184-8993-ed2ede1e91dd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/index_essence/1776043722161-rtnp5e40mo.jpg",
                     "sortOrder": 2,
-                    "description": "낭만적인 여수 바다와 함께하는 특별한 휴식\n사랑하는 반려견과 함께 머물 수 있는 공간\n여유로운 순간마다 따뜻한 추억이 더해집니다.",
+                    "description": "",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1376,16 +1392,16 @@
                   "title": " ",
                   "images": [
                     {
-                      "id": "7086f693-c95f-406b-af42-15533b88fff1",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580638-gtv9d0h17ps.jpg",
+                      "id": "e2b8e514-00ec-453b-aaa6-55f5d53f4373",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580638-zxanv6uo9zf.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
                       "blockId": "dc770b1c-7fc8-411a-96c7-d8ef77827e07"
                     },
                     {
-                      "id": "e2b8e514-00ec-453b-aaa6-55f5d53f4373",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580638-zxanv6uo9zf.jpg",
+                      "id": "7086f693-c95f-406b-af42-15533b88fff1",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580638-gtv9d0h17ps.jpg",
                       "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
@@ -1417,22 +1433,22 @@
                     }
                   ],
                   "blockId": "dc770b1c-7fc8-411a-96c7-d8ef77827e07",
-                  "description": " "
+                  "description": "전 객실에서 탁 트인 오션뷰를 누릴 수 있는 공간\n머무는 곳마다 여수 바다의 아름다움이 함께합니다.\n객실 안에서도 바다를 가까이 느끼는 특별한 휴식"
                 },
                 {
                   "title": " ",
                   "images": [
                     {
-                      "id": "10f32ff7-068c-4569-aa82-bc48c4988c6f",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580638-rbrrfeguryf.jpg",
+                      "id": "69397702-88e8-4f92-8d1a-bde78128ae4f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1780283684890-wwo18a9lio.jpg",
                       "sortOrder": 5,
                       "description": "",
                       "isSelected": true,
                       "blockId": "2174c250-69ed-42c5-84e5-2aec3b26cf91"
                     },
                     {
-                      "id": "f4a844a5-9c75-4a78-b1ee-89fdaaf6604d",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580639-k6cyt5quf2a.jpg",
+                      "id": "10f32ff7-068c-4569-aa82-bc48c4988c6f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580638-rbrrfeguryf.jpg",
                       "sortOrder": 6,
                       "description": "",
                       "isSelected": true,
@@ -1441,6 +1457,14 @@
                     {
                       "id": "da816d6c-0e91-4258-b7bb-62147d7ecaef",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580639-ngu13olyn2i.jpg",
+                      "sortOrder": 7,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "2174c250-69ed-42c5-84e5-2aec3b26cf91"
+                    },
+                    {
+                      "id": "f4a844a5-9c75-4a78-b1ee-89fdaaf6604d",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/main_about/1776044580639-k6cyt5quf2a.jpg",
                       "sortOrder": 7,
                       "description": "",
                       "isSelected": true,
@@ -1464,7 +1488,7 @@
                     }
                   ],
                   "blockId": "2174c250-69ed-42c5-84e5-2aec3b26cf91",
-                  "description": " "
+                  "description": "여수의 다양한 관광지와 함께 \n편안한 여행을 즐길 수 있는 복자펜션\n사랑하는 반려견과 함께 머무를 수 있어 \n더욱 특별한 여행이 가능합니다.\n여수 밤바다와 돌산, 해상케이블카 등 \n주요 관광지를 편리하게 둘러보세요. 🌿🐾✨"
                 }
               ]
             }
@@ -1504,6 +1528,12 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
