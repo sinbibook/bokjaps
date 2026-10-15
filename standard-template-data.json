@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-10-15T02:15:57.113269109Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-10-15T02:17:54.401529874Z",
     "templateType": "fullpage_visual",
     "propertyId": "e65d0d92-2a7d-42bc-bf3f-910bc150ee81",
     "homepageId": "c003e4fe-de08-4968-9776-c552f8123aff"
@@ -3163,7 +3163,7 @@
               "id": "01a13d57-a952-74bb-8243-903057c6c96f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_exterior/1792030516844-uzgqp6yk91.jpg",
               "sortOrder": 21,
-              "description": "",
+              "description": "펜션 전경",
               "isSelected": true,
               "blockId": "01a13488-92c2-7024-b27c-ab2f7f04ea82",
               "category": "roomtype_exterior"
@@ -3172,7 +3172,7 @@
               "id": "01a13d57-a999-7c3f-ba4a-86db00792ac5",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_exterior/1792030516941-b17qn7y09g.jpg",
               "sortOrder": 22,
-              "description": "",
+              "description": "야외수영장",
               "isSelected": true,
               "blockId": "01a13488-92c2-7024-b27c-ab2f7f04ea82",
               "category": "roomtype_exterior"
@@ -3181,7 +3181,7 @@
               "id": "01a13d57-aa14-7dfb-b0d5-af83458b4b8f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_exterior/1792030517142-yka68fq4df.jpg",
               "sortOrder": 23,
-              "description": "",
+              "description": "스파&바베큐",
               "isSelected": true,
               "blockId": "01a13488-92c2-7024-b27c-ab2f7f04ea82",
               "category": "roomtype_exterior"
@@ -3190,7 +3190,7 @@
               "id": "01a13d57-aa1d-7365-9695-084ea5010341",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/c003e4fe-de08-4968-9776-c552f8123aff/roomtype_exterior/1792030516845-kv8gulg04q.jpg",
               "sortOrder": 24,
-              "description": "",
+              "description": "복층 객실",
               "isSelected": true,
               "blockId": "01a13488-92c2-7024-b27c-ab2f7f04ea82",
               "category": "roomtype_exterior"
